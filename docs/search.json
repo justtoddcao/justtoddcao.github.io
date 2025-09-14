@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "justtoddcao.github.io",
@@ -7,10 +14,52 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "section5.html",
+    "href": "section5.html",
+    "title": "Freelance Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "During my student years, I worked on several freelance projects. Each one taught me something new about creativity, teamwork, and responsibility. Here are a few snapshots from that journey."
+  },
+  {
+    "objectID": "section5.html#first-project",
+    "href": "section5.html#first-project",
+    "title": "Freelance Projects",
+    "section": "First Project",
+    "text": "First Project\nIn 2011, while studying at an English center, I could only afford the first month of tuition. Instead of giving up, I proposed an idea to the center manager: I would build a student speaker team to help others practice English before and after their classes. In return, I continued learning for free and received a small stipend of 600,000 VND (about 21 USD/month). What began with 3 members grew into a 20-member team by 2013, achieving a 4.5 out of 5 student satisfaction rating. This experience taught me how to market my skills and manage a project that created real value (Figure 1).\n\n\n\nFigure 1. My Yumetalk team — A snapshot from one of our events"
+  },
+  {
+    "objectID": "section5.html#second-project",
+    "href": "section5.html#second-project",
+    "title": "Freelance Projects",
+    "section": "Second Project",
+    "text": "Second Project\nIn 2012, I met Quang, a mentor who taught me how to manage a team. Through him, I joined a project with Mr. Lu, founder of Lu Cuffee, where I worked until 2015. My role was to coordinate international volunteers who joined via Couchsurfing.com — from Indonesia, China, France, the Philippines, and beyond (Figure 2). In exchange for accommodation, they worked each night as communicators with Vietnamese customers. Leading this diverse group taught me how to manage across cultures, build trust, and create teamwork among people from very different backgrounds.\n\n\n\nFigure 2. Learning leadership through diversity"
+  },
+  {
+    "objectID": "section5.html#third-project",
+    "href": "section5.html#third-project",
+    "title": "Freelance Projects",
+    "section": "Third Project",
+    "text": "Third Project\nIn 2014, I began earning from freelance marketing by working with the beauty vlogger Góc của Rư, who now has more than 715,000 YouTube subscribers (Figure 3). My role focused on offline activities such as creating agendas for her fan meetings and makeup classes. Her fame was already well established by the time I joined her team, and while my contribution was modest, I became a small but important link that helped her events run smoothly.\n\n\n\nFigure 3. The marketing team and Ms. Góc của Rư"
+  },
+  {
+    "objectID": "section5.html#fourth-project",
+    "href": "section5.html#fourth-project",
+    "title": "Freelance Projects",
+    "section": "Fourth Project",
+    "text": "Fourth Project\nFrom late 2014 to 2015, I began organizing my own marketing events. One of my first was for Cali elementary school, where I hosted an outdoor event with nearly 80 guests (Figure 4). I coordinated outsourced partners including a music band and an MC, and worked with the police to secure the event permit. The event was a success, and the school owner, pleased with the outcome, entrusted me with two more events at her other campuses in Go Vap and Thu Duc Districts.\n\n\n\nFigure 4. My first own event at Cali elementary school"
+  },
+  {
+    "objectID": "section5.html#fifth-project",
+    "href": "section5.html#fifth-project",
+    "title": "Freelance Projects",
+    "section": "Fifth Project",
+    "text": "Fifth Project\nIn April 2015, I noticed the growing trend that many Vietnamese people loved practicing English by talking with foreigners. Inspired by this, I created a local version of the “The Amazing Race” and sold tickets for 600,000 VND (about 29 USD) to 24 participants (Figure 5). They were divided into 4 teams and challenged to solve quizzes that led them to 5 different locations across Ho Chi Minh City. Along the way, they had to team up with foreigners to complete the challenges. This campaign not only gave participants a fun and meaningful experience but also became a stepping stone that later helped me enter larger companies.\n\n\n\nFigure 5. Snapshots of The Amazing Race"
+  },
+  {
+    "objectID": "image/index.html",
+    "href": "image/index.html",
+    "title": "Todd Cao - Lecturer in Marketing and Management",
+    "section": "",
+    "text": "I’m Todd Cao, a Vietnamese PhD Candidate in Management at the University of Southern Queensland, Australia and Open University Vietnam, preparing to complete my doctorate and begin the next chapter as a lecturer.\nI am curious about how consumption can make consumers happy; in other words, consumer well-being. I am now expanding into the study of Deepfake influencers, who I believe can also bring joy to people’s lives. Alongside my research, I bring more than ten years of teaching experience across companies and universities, supported by a career that spans industries from education to the non-profit sectors.\nOutside academia, I am an amateur guitarist with a love for dogs. It is my time to step up as a man again who provides for those I love, including my family and two homeless children, Atri and Axet.To make this website more personal, I’ve prepared a quick video introduction."
   }
 ]

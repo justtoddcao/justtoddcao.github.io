@@ -1,39 +1,38 @@
 ---
-title: "Freelance Projects"
+title: "Achievements"
 ---
 
-During my student years, I worked on several freelance projects. Each one taught me something new about creativity, teamwork, and responsibility. Here are a few snapshots from that journey.
 
-## First Project
+## Scholarships
+I have been fortunate to receive multiple scholarships and research grants that recognize both my academic excellence and research potential. These include full scholarships at the Master’s and PhD levels as well as competitive national and international research funding [(Table 2)](#fund).
 
-In 2011, while studying at an English center, I could only afford the first month of tuition. Instead of giving up, I proposed an idea to the center manager: I would build a student speaker team to help others practice English before and after their classes. In return, I continued learning for free and received a small stipend of 600,000 VND (about 21 USD/month). What began with 3 members grew into a 20-member team by 2013, achieving a 4.5 out of 5 student satisfaction rating. This experience taught me how to market my skills and manage a project that created real value [(Figure 1)](#yume).
+:::{#tab-fund}
 
-![Figure 1. My Yumetalk team — A snapshot from one of our events](image/yume.png){#yume width="50%" fig-align="center"}
+<a id="tb1"></a>*Table 2. Scholarships and Research Funding*
 
-## Second Project
+| Year       | Amount (USD)    | Scholarship and Funding                                                                 |
+|---------------|--------------------|-----------------------------------------------------------------------------------|
+| 2017–2019  | 3,000           | Awarded a full scholarship to pursue the Master’s program at Open University Vietnam     |
+| 2024–2026  | 123,600         | Full scholarship for the Cotutelle PhD at the University of Southern Queensland, Australia, and Open University Vietnam |
+| 2024       | 20,000          | Research funding from the Ministry of Education and Training (Grant B2024-MBS-09)       |
+| 2025       | 160,000 (est.)  | Research funding from NAFOSTED (second round)                                           |
 
-In 2012, I met Quang, a mentor who taught me how to manage a team. Through him, I joined a project with Mr. Lu, founder of Lu Cuffee, where I worked until 2015. My role was to coordinate international volunteers who joined via Couchsurfing.com — from Indonesia, China, France, the Philippines, and beyond [(Figure 2)](#lu). In exchange for accommodation, they worked each night as communicators with Vietnamese customers. Leading this diverse group taught me how to manage across cultures, build trust, and create teamwork among people from very different backgrounds.
+:::
 
-![Figure 2. Learning leadership through diversity](image/lu.png){#lu width="50%" fig-align="center"}
+## Awards
 
-## Third Project
+Below are some of my academic awards, beginning with the recognition I received in 2017 for achieving the highest entrance examination score [(Figure 8)](#aw1). 
 
-In 2014, I began earning from freelance marketing by working with the beauty vlogger Góc của Rư, who now has more than 715,000 YouTube subscribers [(Figure 3)](#lu). My role focused on offline activities such as creating agendas for her fan meetings and makeup classes. Her fame was already well established by the time I joined her team, and while my contribution was modest, I became a small but important link that helped her events run smoothly.
+![Figure 8. Award for Highest Entrance Examination Score](image/award1.png){#aw1 width="60%" fig-align="center"}
 
-![Figure 3. The marketing team and Ms. Góc của Rư](image/ru.png){#lu width="50%" fig-align="center"}
+I went on to achieve the highest GPA in the program, a reflection of consistent performance across all subjects [(Figure 9)](#aw2).
 
-## Fourth Project
+![Figure 9. Highest GPA in Master's Program](image/award2.png){#aw2 width="60%" fig-align="center"}
 
-From late 2014 to 2015, I began organizing my own marketing events. One of my first was for Cali elementary school, where I hosted an outdoor event with nearly 80 guests [(Figure 4)](#cali). I coordinated outsourced partners including a music band and an MC, and worked with the police to secure the event permit. The event was a success, and the school owner, pleased with the outcome, entrusted me with two more events at her other campuses in Go Vap and Thu Duc Districts.
+This excellence was honored with the university’s Top Graduate Award, often referred to as the Valedictorian prize [(Figure 10)](#aw2).
 
-![Figure 4. My first own event at Cali elementary school](image/cali.png){#lu width="50%" fig-align="center"}
+![Figure 10. Valedictorian – Top Graduate Award](image/award3.png){#aw3 width="60%" fig-align="center"}
 
-## Fifth Project
+Finally, I also received several other recognitions for my academic contributions and professional work, which further shaped my growth as both a researcher and an educator [(Figure 11)](#aw4).
 
-In April 2015, I noticed the growing trend that many Vietnamese people loved practicing English by talking with foreigners. Inspired by this, I created a local version of the “The Amazing Race” and sold tickets for 600,000 VND (about 29 USD) to 24 participants [(Figure 5)](#race). They were divided into 4 teams and challenged to solve quizzes that led them to 5 different locations across Ho Chi Minh City. Along the way, they had to team up with foreigners to complete the challenges. This campaign not only gave participants a fun and meaningful experience but also became a stepping stone that later helped me enter larger companies.
-
-![Figure 5. Snapshots of The Amazing Race](image/race.png){#lu width="50%" fig-align="center"}
-
-
-
-
+![Figure 11. Other Academic and Professional Awards](image/award4.png){#aw4 width="60%" fig-align="center"}

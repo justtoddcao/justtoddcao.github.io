@@ -65,3 +65,45 @@ p { text-align: justify; }
 .profile-card .company{ margin:4px 0 8px; color:#444; }
 .profile-card a{ color:#1f3a93; text-decoration:none; }
 .profile-card a:hover{ text-decoration:underline; }
+
+.vis-item {
+  font-family: 'Georgia', serif;
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 6px;
+}
+.vis-time-axis .vis-text {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+```css
+.compact-widget {
+  margin-bottom: 0.5rem;
+}
+
+.hover-img {
+  position: relative;
+  cursor: pointer;
+  color: #1f3a93; /* optional text color */
+}
+
+.hover-img span {
+  display: none;             /* keep image hidden by default */
+  position: absolute;
+  top: 20px;
+  left: 0;
+  z-index: 10;
+}
+
+.hover-img:hover span {
+  display: block;            /* show image only on hover */
+}
+
+.hover-img img {
+  border: 1px solid #ccc;
+  background: white;
+  padding: 4px;
+  border-radius: 6px;
+  max-width: 200px;          /* keep images neat */
+}
